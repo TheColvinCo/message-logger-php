@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Shared\Logging;
+namespace Colvin\MessageLogger;
 
 use Colvin\MessageLogger\Processors\MessageProcessor;
 use Colvin\CommonDomain\Domain\Message\Message;
